@@ -1,0 +1,89 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../font/SanFranciscoDisplay-Light.otf);
+ }
+
+ @font-face {
+    font-family: mySecondFont;
+    src: url(../font/SanFranciscoText-Regular.otf);
+ }
+
+ @font-face {
+    font-family: myThirdFont;
+    src: url(../font/SanFranciscoText-Light.otf);
+ }
+
+ @font-face {
+    font-family: myFourthFont;
+    src: url(../font/SanFranciscoText-Medium.otf);
+ }
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+  /*  overflow: hidden;
+    position: fixed; */
+    width: 100%;
+    background-color: #333;
+    height:40px;
+}
+
+#logoapple{
+    margin-left: 20%;
+    margin-top: 0.8%;
+}
+
+#logocart{
+    float: right;
+    margin-right: 3%;
+    margin-top: 0.8%;
+}
+
+#logoadmin{
+    float: right;
+    margin-right: 20%;
+    margin-top: 0.8%;
+ }
+ 
+#minibanner{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    border: 1px solid rgb(152,152,152);
+}
+
+ #titelpage{
+    font-family: mySecondFont;
+    font-size: 1.3em;
+    color: #333;
+    margin-left: 20%;
+}
+
+#footer{
+    height: 100px;
+    background-color: rgb(237,237,237);
+}
+
+footer{
+    height: 20px;
+    text-align: center;
+    font-family: mySecondFont;
+}
+
+#btnBetalen{
+    float: right;
+    margin-right: 8%;
+    margin-bottom: 2%;
+    width: 10%;
+    height: 40px;
+    background-color: rgb(32,136,218);
+    border-radius: 5px;
+    color: white;
+    font-family: myThirdFont;
+    text-align: center;
+    font-size: 1em;
+    border: none;
+}

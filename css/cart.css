@@ -1,0 +1,115 @@
+#titelCart{
+    font-family: myFourthFont;
+    margin-left: 10%;
+    margin-top: 3%;
+    
+}
+
+#subtitelCart{
+    font-family: myFirstFont;
+    margin-left: 10%;
+    margin-top: 1%;
+    opacity: 0.7;
+    
+}
+
+#cartItem{
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+}
+
+#imgCart{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-top: -3%;
+}
+
+#div{
+    margin-top: 6%;
+    width: 65%;
+}
+
+#hover{
+    font-family: mySecondFont;
+    color: black;
+    font-size: 1.3em;
+    
+}
+
+#hover:hover{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+}
+
+#prijsCart{
+    float: right;
+    font-family: mySecondFont;
+    font-size: 1.5em;
+    margin-right: 10%;
+    margin-top: -7%;
+}
+
+#delete{
+    font-family: myFirstFont;
+    float: right;
+    width: 10%;
+    margin-right: 6.5%;
+    margin-top: -3%;
+}
+
+#update{
+    font-family: myFirstFont;
+    float: right;
+    width: 20%;
+    margin-right: 6.5%;
+
+}
+
+#itemHr{
+    color: rgb(237,237,237);
+    width: 75%;
+    margin-left: -5%;
+    margin-top: 5%;
+}
+
+#cartHr{
+    color: rgb(237,237,237);
+    margin-top: 5%;
+    width: 80%;
+   
+}
+
+#btnVerder{
+    float: right;
+    margin-top: 2%;
+    margin-right: 2%;
+    width: 10%;
+    height: 40px;
+    background-color: rgb(32,136,218);
+    border-radius: 5px;
+    color: white;
+    font-family: myThirdFont;
+    text-align: center;
+    font-size: 1em;
+    border: none;
+}
+
+#titel{
+    font-family: myFirstFont;
+    margin-left: 50%;
+}
+
+#prijs{
+    font-family: myFirstFont;
+    float: right;
+    width: 2%;
+    margin-top: -9%;
+    margin-right: 15%;
+    font-size: 1.5em;
+}

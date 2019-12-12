@@ -1,0 +1,35 @@
+td, th{
+    border: 1px solid black;
+    text-align: center;
+    font-family: myFourthFont;
+}
+
+td{
+    font-family: myFirstFont;
+}
+
+#btnProduct{
+    font-family: mySecondFont;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: block;
+    width: 20%;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+#btnProduct:hover{
+    background-color: blue;
+    color: white;
+}
+
+#loguit{
+    float: right;
+    margin-right: -20%;
+    margin-top: 0.5%;
+}

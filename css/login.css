@@ -1,0 +1,21 @@
+.login{
+width: 20%;
+height: 300px;
+text-align: center;
+margin: 0 auto; 
+display: block;
+font-family: myFirstFont;
+}
+
+
+.btnLogin{
+    width: 60%;
+    height: 40px;
+    background-color: rgb(32,136,218);
+    border-radius: 5px;
+    color: white;
+    font-family: myThirdFont;
+    text-align: center;
+    font-size: 1em;
+    border: none;
+}

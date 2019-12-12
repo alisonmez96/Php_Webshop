@@ -1,0 +1,37 @@
+
+#formulier{
+    width: 40%;
+    font-family: myFourthFont;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+label{
+    margin-right: 20%;
+    text-align: left;
+}
+
+input, textarea, select{
+    width: 30%;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-top: 2%;
+}
+
+a{
+    text-decoration: none;
+}
+
+#beschrijving{
+   margin-left: -10%; 
+   padding: 3px;
+}
+
+#naam{
+    margin-left: -1.5%;
+}
+
+#btw{
+    margin-left: -14%;
+}
